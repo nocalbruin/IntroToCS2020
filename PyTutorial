@@ -1,0 +1,15 @@
+message = ("Hello World")
+print (message)
+message = message + (" Mr Wang")
+print (message)
+message = ("Hello this is what I said")
+print (message)
+#
+first_name = 'eric'
+print (first_name)
+print (first_name.title())
+print (first_name.upper())
+
+print ("\n")
+print (16**2)
+print (0.1+0.2)
